@@ -3,7 +3,11 @@ body {
     font-family: monospace;
 }
 
-h1 {
+#main-title {
     text-align:center;
     font-family: fantasy;
+}
+
+.content {
+    margin-bottom: 12px;
 }
